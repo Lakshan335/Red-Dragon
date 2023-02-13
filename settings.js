@@ -59,7 +59,7 @@ global.footer = '[ ◉ LAKIYA BOT ]' //
 global.premium = ['+94766370881'] //ur premium numbers
 
 //other
-global.sessionName = '3bsHYHMj4xyKyfPHP1NfPMYGF4SG2M5DX3VN9eEPRWdd'
+global.sessionName = 'BezCCNhXLqdHJN/2OvwW5n9+nBBsq9E/LTeSyZhqGcR3'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
